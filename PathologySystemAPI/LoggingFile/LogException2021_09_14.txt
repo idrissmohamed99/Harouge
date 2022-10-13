@@ -1,0 +1,362 @@
+
+
+
+ ***********************************************9/14/2021 1:23:20 AM*****************************************************
+
+
+Status Code                    ====> 	400
+
+
+Path Error                     ====> 	HarougeAPI.Controllers.SurgicalProcedureTypeController.GetSurgicalProcedureTypes (HarougeAPI)
+
+
+Type Execut Exception          ====> 	ExecuteException
+
+
+Exception Masseges             ====> 	Unable to resolve service for type 'Services.Services.SurgicalProcedureTypeServices' while attempting to activate 'HarougeAPI.Controllers.SurgicalProcedureTypeController'.
+
+
+inner Exception                ====> 	No Inner Exception
+
+
+Date Exception                 ====> 	9/14/2021 1:23:20 AM
+
+
+Source Exception               ====> 	   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+
+
+
+
+ ***********************************************9/14/2021 1:23:27 AM*****************************************************
+
+
+Status Code                    ====> 	400
+
+
+Path Error                     ====> 	HarougeAPI.Controllers.SurgicalProcedureTypeController.GetSurgicalProcedureTypes (HarougeAPI)
+
+
+Type Execut Exception          ====> 	ExecuteException
+
+
+Exception Masseges             ====> 	Unable to resolve service for type 'Services.Services.SurgicalProcedureTypeServices' while attempting to activate 'HarougeAPI.Controllers.SurgicalProcedureTypeController'.
+
+
+inner Exception                ====> 	No Inner Exception
+
+
+Date Exception                 ====> 	9/14/2021 1:23:27 AM
+
+
+Source Exception               ====> 	   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+
+
+
+
+ ***********************************************9/14/2021 1:23:30 AM*****************************************************
+
+
+Status Code                    ====> 	400
+
+
+Path Error                     ====> 	HarougeAPI.Controllers.SurgicalProcedureTypeController.GetSurgicalProcedureTypes (HarougeAPI)
+
+
+Type Execut Exception          ====> 	ExecuteException
+
+
+Exception Masseges             ====> 	Unable to resolve service for type 'Services.Services.SurgicalProcedureTypeServices' while attempting to activate 'HarougeAPI.Controllers.SurgicalProcedureTypeController'.
+
+
+inner Exception                ====> 	No Inner Exception
+
+
+Date Exception                 ====> 	9/14/2021 1:23:30 AM
+
+
+Source Exception               ====> 	   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+
+
+
+
+ ***********************************************9/14/2021 1:24:08 AM*****************************************************
+
+
+Status Code                    ====> 	400
+
+
+Path Error                     ====> 	HarougeAPI.Controllers.SurgicalProcedureTypeController.GetSurgicalProcedureTypes (HarougeAPI)
+
+
+Type Execut Exception          ====> 	ExecuteException
+
+
+Exception Masseges             ====> 	Unable to resolve service for type 'Services.Services.SurgicalProcedureTypeServices' while attempting to activate 'HarougeAPI.Controllers.SurgicalProcedureTypeController'.
+
+
+inner Exception                ====> 	No Inner Exception
+
+
+Date Exception                 ====> 	9/14/2021 1:24:08 AM
+
+
+Source Exception               ====> 	   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+
+
+
+
+ ***********************************************9/14/2021 1:24:26 AM*****************************************************
+
+
+Status Code                    ====> 	400
+
+
+Path Error                     ====> 	HarougeAPI.Controllers.SurgicalProcedureTypeController.GetSurgicalProcedureTypes (HarougeAPI)
+
+
+Type Execut Exception          ====> 	ExecuteException
+
+
+Exception Masseges             ====> 	Unable to resolve service for type 'Services.Services.SurgicalProcedureTypeServices' while attempting to activate 'HarougeAPI.Controllers.SurgicalProcedureTypeController'.
+
+
+inner Exception                ====> 	No Inner Exception
+
+
+Date Exception                 ====> 	9/14/2021 1:24:26 AM
+
+
+Source Exception               ====> 	   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+
+
+
+
+ ***********************************************9/14/2021 1:25:27 AM*****************************************************
+
+
+Status Code                    ====> 	400
+
+
+Path Error                     ====> 	HarougeAPI.Controllers.SurgicalProcedureTypeController.GetSurgicalProcedureTypes (HarougeAPI)
+
+
+Type Execut Exception          ====> 	ExecuteException
+
+
+Exception Masseges             ====> 	Unable to resolve service for type 'Services.Services.SurgicalProcedureTypeServices' while attempting to activate 'HarougeAPI.Controllers.SurgicalProcedureTypeController'.
+
+
+inner Exception                ====> 	No Inner Exception
+
+
+Date Exception                 ====> 	9/14/2021 1:25:27 AM
+
+
+Source Exception               ====> 	   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+
+
+
+
+ ***********************************************9/14/2021 1:25:55 AM*****************************************************
+
+
+Status Code                    ====> 	400
+
+
+Path Error                     ====> 	HarougeAPI.Controllers.SurgicalProcedureTypeController.GetSurgicalProcedureTypes (HarougeAPI)
+
+
+Type Execut Exception          ====> 	ExecuteException
+
+
+Exception Masseges             ====> 	Unable to resolve service for type 'Services.Services.SurgicalProcedureTypeServices' while attempting to activate 'HarougeAPI.Controllers.SurgicalProcedureTypeController'.
+
+
+inner Exception                ====> 	No Inner Exception
+
+
+Date Exception                 ====> 	9/14/2021 1:25:55 AM
+
+
+Source Exception               ====> 	   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+
+
+
+
+ ***********************************************9/14/2021 1:34:23 AM*****************************************************
+
+
+Status Code                    ====> 	400
+
+
+Path Error                     ====> 	HarougeAPI.Controllers.SurgicalProcedureTypeController.ActiveSurgicalProcedureType (HarougeAPI)
+
+
+Type Execut Exception          ====> 	ExecuteException
+
+
+Exception Masseges             ====> 	Object reference not set to an instance of an object.
+
+
+inner Exception                ====> 	No Inner Exception
+
+
+Date Exception                 ====> 	9/14/2021 1:34:23 AM
+
+
+Source Exception               ====> 	   at Services.Services.SurgicalProcedureTypeServices.ActiveISurgicalProcedureType(String id, Boolean isActive) in D:\Projects\source\repos\Pathology-Department\Services\Services\SurgicalProcedureTypeServices.cs:line 26
+   at HarougeAPI.Controllers.SurgicalProcedureTypeController.ActiveSurgicalProcedureType(String id, Boolean isActive) in D:\Projects\source\repos\Pathology-Department\HarougeAPI\Controllers\SurgicalProcedureTypeController.cs:line 64
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+
+
+
+
+ ***********************************************9/14/2021 1:43:34 AM*****************************************************
+
+
+Status Code                    ====> 	400
+
+
+Path Error                     ====> 	HarougeAPI.Controllers.SurgicalProcedureTypeController.UpdateSurgicalProcedureType (HarougeAPI)
+
+
+Type Execut Exception          ====> 	ExecuteException
+
+
+Exception Masseges             ====> 	An error occurred while updating the entries. See the inner exception for details.
+
+
+inner Exception                ====> 	SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+Date Exception                 ====> 	9/14/2021 1:43:34 AM
+
+
+Source Exception               ====> 	   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at UnitOfWork.Work.UnitOfWork`1.SaveChangeAsync() in D:\Projects\source\repos\Pathology-Department\UnitOfWork\Work\UnitOfWork.cs:line 27
+   at HarougeAPI.Controllers.SurgicalProcedureTypeController.UpdateSurgicalProcedureType(UpdateSurgicalProcedureTypeModel updateModel) in D:\Projects\source\repos\Pathology-Department\HarougeAPI\Controllers\SurgicalProcedureTypeController.cs:line 53
+   at lambda_method(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+
+
+
+
+ ***********************************************9/14/2021 1:44:50 AM*****************************************************
+
+
+Status Code                    ====> 	400
+
+
+Path Error                     ====> 	HarougeAPI.Controllers.SurgicalProcedureTypeController.UpdateSurgicalProcedureType (HarougeAPI)
+
+
+Type Execut Exception          ====> 	ExecuteException
+
+
+Exception Masseges             ====> 	An error occurred while updating the entries. See the inner exception for details.
+
+
+inner Exception                ====> 	SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+Date Exception                 ====> 	9/14/2021 1:44:50 AM
+
+
+Source Exception               ====> 	   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at UnitOfWork.Work.UnitOfWork`1.SaveChangeAsync() in D:\Projects\source\repos\Pathology-Department\UnitOfWork\Work\UnitOfWork.cs:line 27
+   at HarougeAPI.Controllers.SurgicalProcedureTypeController.UpdateSurgicalProcedureType(UpdateSurgicalProcedureTypeModel updateModel) in D:\Projects\source\repos\Pathology-Department\HarougeAPI\Controllers\SurgicalProcedureTypeController.cs:line 53
+   at lambda_method(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+

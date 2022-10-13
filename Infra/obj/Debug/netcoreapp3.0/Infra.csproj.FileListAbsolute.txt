@@ -1,0 +1,64 @@
+D:\Projects\source\repos\Project Template\Infra\obj\Debug\netcoreapp3.0\Infra.AssemblyInfoInputs.cache
+D:\Projects\source\repos\Project Template\Infra\obj\Debug\netcoreapp3.0\Infra.AssemblyInfo.cs
+D:\Projects\source\repos\Project Template\Infra\obj\Debug\netcoreapp3.0\Infra.csproj.CoreCompileInputs.cache
+D:\Projects\source\repos\Project Template\Infra\bin\Debug\netcoreapp3.0\Infra.deps.json
+D:\Projects\source\repos\Project Template\Infra\bin\Debug\netcoreapp3.0\Infra.runtimeconfig.json
+D:\Projects\source\repos\Project Template\Infra\bin\Debug\netcoreapp3.0\Infra.runtimeconfig.dev.json
+D:\Projects\source\repos\Project Template\Infra\bin\Debug\netcoreapp3.0\Infra.dll
+D:\Projects\source\repos\Project Template\Infra\bin\Debug\netcoreapp3.0\Infra.pdb
+D:\Projects\source\repos\Project Template\Infra\obj\Debug\netcoreapp3.0\Infra.dll
+D:\Projects\source\repos\Project Template\Infra\obj\Debug\netcoreapp3.0\Infra.pdb
+D:\Projects\source\repos\Project Template\Infra\obj\Debug\netcoreapp3.0\Infra.genruntimeconfig.cache
+D:\Projects\source\repos\Project Template\Infra\obj\Debug\netcoreapp3.0\Infra.csprojAssemblyReference.cache
+D:\Projects\source\repos\Pathology-Department\Infra\bin\Debug\netcoreapp3.0\Infra.deps.json
+D:\Projects\source\repos\Pathology-Department\Infra\bin\Debug\netcoreapp3.0\Infra.runtimeconfig.json
+D:\Projects\source\repos\Pathology-Department\Infra\bin\Debug\netcoreapp3.0\Infra.runtimeconfig.dev.json
+D:\Projects\source\repos\Pathology-Department\Infra\bin\Debug\netcoreapp3.0\Infra.dll
+D:\Projects\source\repos\Pathology-Department\Infra\bin\Debug\netcoreapp3.0\Infra.pdb
+D:\Projects\source\repos\Pathology-Department\Infra\obj\Debug\netcoreapp3.0\Infra.AssemblyInfoInputs.cache
+D:\Projects\source\repos\Pathology-Department\Infra\obj\Debug\netcoreapp3.0\Infra.AssemblyInfo.cs
+D:\Projects\source\repos\Pathology-Department\Infra\obj\Debug\netcoreapp3.0\Infra.csproj.CoreCompileInputs.cache
+D:\Projects\source\repos\Pathology-Department\Infra\obj\Debug\netcoreapp3.0\Infra.dll
+D:\Projects\source\repos\Pathology-Department\Infra\obj\Debug\netcoreapp3.0\Infra.pdb
+D:\Projects\source\repos\Pathology-Department\Infra\obj\Debug\netcoreapp3.0\Infra.genruntimeconfig.cache
+D:\Projects\source\repos\Pathology-Department\Infra\obj\Debug\netcoreapp3.0\Infra.csproj.AssemblyReference.cache
+D:\Projects\source\repos\Pathology-Department\Infra\obj\Debug\netcoreapp3.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Infra\obj\Debug\netcoreapp3.0\Infra.csproj.AssemblyReference.cache
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Infra\obj\Debug\netcoreapp3.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Infra\obj\Debug\netcoreapp3.0\Infra.AssemblyInfoInputs.cache
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Infra\obj\Debug\netcoreapp3.0\Infra.AssemblyInfo.cs
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Infra\obj\Debug\netcoreapp3.0\Infra.csproj.CoreCompileInputs.cache
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Infra\obj\Debug\netcoreapp3.0\Infra.dll
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Infra\obj\Debug\netcoreapp3.0\Infra.pdb
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Infra\bin\Debug\netcoreapp3.0\Infra.deps.json
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Infra\bin\Debug\netcoreapp3.0\Infra.runtimeconfig.json
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Infra\bin\Debug\netcoreapp3.0\Infra.runtimeconfig.dev.json
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Infra\bin\Debug\netcoreapp3.0\Infra.dll
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Infra\bin\Debug\netcoreapp3.0\Infra.pdb
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Infra\obj\Debug\netcoreapp3.0\Infra.genruntimeconfig.cache
+D:\Projects\source\repos\LibyanLaw_BackEnd\Infra\bin\Debug\netcoreapp3.0\Infra.deps.json
+D:\Projects\source\repos\LibyanLaw_BackEnd\Infra\bin\Debug\netcoreapp3.0\Infra.runtimeconfig.json
+D:\Projects\source\repos\LibyanLaw_BackEnd\Infra\bin\Debug\netcoreapp3.0\Infra.runtimeconfig.dev.json
+D:\Projects\source\repos\LibyanLaw_BackEnd\Infra\bin\Debug\netcoreapp3.0\Infra.dll
+D:\Projects\source\repos\LibyanLaw_BackEnd\Infra\bin\Debug\netcoreapp3.0\Infra.pdb
+D:\Projects\source\repos\LibyanLaw_BackEnd\Infra\obj\Debug\netcoreapp3.0\Infra.csproj.AssemblyReference.cache
+D:\Projects\source\repos\LibyanLaw_BackEnd\Infra\obj\Debug\netcoreapp3.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\source\repos\LibyanLaw_BackEnd\Infra\obj\Debug\netcoreapp3.0\Infra.AssemblyInfoInputs.cache
+D:\Projects\source\repos\LibyanLaw_BackEnd\Infra\obj\Debug\netcoreapp3.0\Infra.AssemblyInfo.cs
+D:\Projects\source\repos\LibyanLaw_BackEnd\Infra\obj\Debug\netcoreapp3.0\Infra.csproj.CoreCompileInputs.cache
+D:\Projects\source\repos\LibyanLaw_BackEnd\Infra\obj\Debug\netcoreapp3.0\Infra.dll
+D:\Projects\source\repos\LibyanLaw_BackEnd\Infra\obj\Debug\netcoreapp3.0\Infra.pdb
+D:\Projects\source\repos\LibyanLaw_BackEnd\Infra\obj\Debug\netcoreapp3.0\Infra.genruntimeconfig.cache
+D:\Projects\source\repos\HarougeBackEndSystem\Infra\bin\Debug\netcoreapp3.0\Infra.deps.json
+D:\Projects\source\repos\HarougeBackEndSystem\Infra\bin\Debug\netcoreapp3.0\Infra.runtimeconfig.json
+D:\Projects\source\repos\HarougeBackEndSystem\Infra\bin\Debug\netcoreapp3.0\Infra.runtimeconfig.dev.json
+D:\Projects\source\repos\HarougeBackEndSystem\Infra\bin\Debug\netcoreapp3.0\Infra.dll
+D:\Projects\source\repos\HarougeBackEndSystem\Infra\bin\Debug\netcoreapp3.0\Infra.pdb
+D:\Projects\source\repos\HarougeBackEndSystem\Infra\obj\Debug\netcoreapp3.0\Infra.csproj.AssemblyReference.cache
+D:\Projects\source\repos\HarougeBackEndSystem\Infra\obj\Debug\netcoreapp3.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\source\repos\HarougeBackEndSystem\Infra\obj\Debug\netcoreapp3.0\Infra.AssemblyInfoInputs.cache
+D:\Projects\source\repos\HarougeBackEndSystem\Infra\obj\Debug\netcoreapp3.0\Infra.AssemblyInfo.cs
+D:\Projects\source\repos\HarougeBackEndSystem\Infra\obj\Debug\netcoreapp3.0\Infra.csproj.CoreCompileInputs.cache
+D:\Projects\source\repos\HarougeBackEndSystem\Infra\obj\Debug\netcoreapp3.0\Infra.dll
+D:\Projects\source\repos\HarougeBackEndSystem\Infra\obj\Debug\netcoreapp3.0\Infra.pdb
+D:\Projects\source\repos\HarougeBackEndSystem\Infra\obj\Debug\netcoreapp3.0\Infra.genruntimeconfig.cache

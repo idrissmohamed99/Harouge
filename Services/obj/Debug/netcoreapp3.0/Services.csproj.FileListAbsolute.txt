@@ -1,0 +1,64 @@
+D:\Projects\source\repos\Project Template\Services\obj\Debug\netcoreapp3.0\Services.csprojAssemblyReference.cache
+D:\Projects\source\repos\Project Template\Services\obj\Debug\netcoreapp3.0\Services.AssemblyInfoInputs.cache
+D:\Projects\source\repos\Project Template\Services\obj\Debug\netcoreapp3.0\Services.AssemblyInfo.cs
+D:\Projects\source\repos\Project Template\Services\obj\Debug\netcoreapp3.0\Services.csproj.CoreCompileInputs.cache
+D:\Projects\source\repos\Project Template\Services\bin\Debug\netcoreapp3.0\Services.deps.json
+D:\Projects\source\repos\Project Template\Services\bin\Debug\netcoreapp3.0\Services.dll
+D:\Projects\source\repos\Project Template\Services\bin\Debug\netcoreapp3.0\Services.pdb
+D:\Projects\source\repos\Project Template\Services\bin\Debug\netcoreapp3.0\Infra.dll
+D:\Projects\source\repos\Project Template\Services\bin\Debug\netcoreapp3.0\Infra.pdb
+D:\Projects\source\repos\Project Template\Services\obj\Debug\netcoreapp3.0\Services.csproj.CopyComplete
+D:\Projects\source\repos\Project Template\Services\obj\Debug\netcoreapp3.0\Services.dll
+D:\Projects\source\repos\Project Template\Services\obj\Debug\netcoreapp3.0\Services.pdb
+D:\Projects\source\repos\Pathology-Department\Services\bin\Debug\netcoreapp3.0\Services.deps.json
+D:\Projects\source\repos\Pathology-Department\Services\bin\Debug\netcoreapp3.0\Services.dll
+D:\Projects\source\repos\Pathology-Department\Services\bin\Debug\netcoreapp3.0\Services.pdb
+D:\Projects\source\repos\Pathology-Department\Services\bin\Debug\netcoreapp3.0\Infra.dll
+D:\Projects\source\repos\Pathology-Department\Services\bin\Debug\netcoreapp3.0\Infra.pdb
+D:\Projects\source\repos\Pathology-Department\Services\obj\Debug\netcoreapp3.0\Services.AssemblyInfoInputs.cache
+D:\Projects\source\repos\Pathology-Department\Services\obj\Debug\netcoreapp3.0\Services.AssemblyInfo.cs
+D:\Projects\source\repos\Pathology-Department\Services\obj\Debug\netcoreapp3.0\Services.csproj.CoreCompileInputs.cache
+D:\Projects\source\repos\Pathology-Department\Services\obj\Debug\netcoreapp3.0\Services.csproj.CopyComplete
+D:\Projects\source\repos\Pathology-Department\Services\obj\Debug\netcoreapp3.0\Services.dll
+D:\Projects\source\repos\Pathology-Department\Services\obj\Debug\netcoreapp3.0\Services.pdb
+D:\Projects\source\repos\Pathology-Department\Services\obj\Debug\netcoreapp3.0\Services.csproj.AssemblyReference.cache
+D:\Projects\source\repos\Pathology-Department\Services\obj\Debug\netcoreapp3.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Services\obj\Debug\netcoreapp3.0\Services.csproj.AssemblyReference.cache
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Services\obj\Debug\netcoreapp3.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Services\obj\Debug\netcoreapp3.0\Services.AssemblyInfoInputs.cache
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Services\obj\Debug\netcoreapp3.0\Services.AssemblyInfo.cs
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Services\obj\Debug\netcoreapp3.0\Services.csproj.CoreCompileInputs.cache
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Services\obj\Debug\netcoreapp3.0\Services.dll
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Services\obj\Debug\netcoreapp3.0\Services.pdb
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Services\bin\Debug\netcoreapp3.0\Services.deps.json
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Services\bin\Debug\netcoreapp3.0\Services.dll
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Services\bin\Debug\netcoreapp3.0\Services.pdb
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Services\bin\Debug\netcoreapp3.0\Infra.dll
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Services\bin\Debug\netcoreapp3.0\Infra.pdb
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\Services\obj\Debug\netcoreapp3.0\Services.csproj.CopyComplete
+D:\Projects\source\repos\LibyanLaw_BackEnd\Services\bin\Debug\netcoreapp3.0\Services.deps.json
+D:\Projects\source\repos\LibyanLaw_BackEnd\Services\bin\Debug\netcoreapp3.0\Services.dll
+D:\Projects\source\repos\LibyanLaw_BackEnd\Services\bin\Debug\netcoreapp3.0\Services.pdb
+D:\Projects\source\repos\LibyanLaw_BackEnd\Services\bin\Debug\netcoreapp3.0\Infra.dll
+D:\Projects\source\repos\LibyanLaw_BackEnd\Services\bin\Debug\netcoreapp3.0\Infra.pdb
+D:\Projects\source\repos\LibyanLaw_BackEnd\Services\obj\Debug\netcoreapp3.0\Services.csproj.AssemblyReference.cache
+D:\Projects\source\repos\LibyanLaw_BackEnd\Services\obj\Debug\netcoreapp3.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\source\repos\LibyanLaw_BackEnd\Services\obj\Debug\netcoreapp3.0\Services.AssemblyInfoInputs.cache
+D:\Projects\source\repos\LibyanLaw_BackEnd\Services\obj\Debug\netcoreapp3.0\Services.AssemblyInfo.cs
+D:\Projects\source\repos\LibyanLaw_BackEnd\Services\obj\Debug\netcoreapp3.0\Services.csproj.CoreCompileInputs.cache
+D:\Projects\source\repos\LibyanLaw_BackEnd\Services\obj\Debug\netcoreapp3.0\Services.csproj.CopyComplete
+D:\Projects\source\repos\LibyanLaw_BackEnd\Services\obj\Debug\netcoreapp3.0\Services.dll
+D:\Projects\source\repos\LibyanLaw_BackEnd\Services\obj\Debug\netcoreapp3.0\Services.pdb
+D:\Projects\source\repos\HarougeBackEndSystem\Services\bin\Debug\netcoreapp3.0\Services.deps.json
+D:\Projects\source\repos\HarougeBackEndSystem\Services\bin\Debug\netcoreapp3.0\Services.dll
+D:\Projects\source\repos\HarougeBackEndSystem\Services\bin\Debug\netcoreapp3.0\Services.pdb
+D:\Projects\source\repos\HarougeBackEndSystem\Services\bin\Debug\netcoreapp3.0\Infra.dll
+D:\Projects\source\repos\HarougeBackEndSystem\Services\bin\Debug\netcoreapp3.0\Infra.pdb
+D:\Projects\source\repos\HarougeBackEndSystem\Services\obj\Debug\netcoreapp3.0\Services.csproj.AssemblyReference.cache
+D:\Projects\source\repos\HarougeBackEndSystem\Services\obj\Debug\netcoreapp3.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\source\repos\HarougeBackEndSystem\Services\obj\Debug\netcoreapp3.0\Services.AssemblyInfoInputs.cache
+D:\Projects\source\repos\HarougeBackEndSystem\Services\obj\Debug\netcoreapp3.0\Services.AssemblyInfo.cs
+D:\Projects\source\repos\HarougeBackEndSystem\Services\obj\Debug\netcoreapp3.0\Services.csproj.CoreCompileInputs.cache
+D:\Projects\source\repos\HarougeBackEndSystem\Services\obj\Debug\netcoreapp3.0\Services.csproj.CopyComplete
+D:\Projects\source\repos\HarougeBackEndSystem\Services\obj\Debug\netcoreapp3.0\Services.dll
+D:\Projects\source\repos\HarougeBackEndSystem\Services\obj\Debug\netcoreapp3.0\Services.pdb

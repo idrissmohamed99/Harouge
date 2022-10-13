@@ -1,0 +1,33 @@
+
+
+
+ ***********************************************8/31/2021 1:31:06 AM*****************************************************
+
+
+Status Code                    ====> 	400
+
+
+Path Error                     ====> 	HarougeAPI.Controllers.SpecimenController.InsertSpecimen (HarougeAPI)
+
+
+Type Execut Exception          ====> 	ExecuteException
+
+
+Exception Masseges             ====> 	Object reference not set to an instance of an object.
+
+
+inner Exception                ====> 	No Inner Exception
+
+
+Date Exception                 ====> 	8/31/2021 1:31:06 AM
+
+
+Source Exception               ====> 	   at HarougeAPI.Filters.SpecimenFilter.InsertSpecimenFilter.OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next) in D:\Projects\source\repos\Pathology-Department\HarougeAPI\Filters\SpecimenFilter\InsertSpecimenFilter.cs:line 35
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+

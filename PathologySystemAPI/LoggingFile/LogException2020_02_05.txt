@@ -1,0 +1,36 @@
+
+
+
+ ***********************************************2/5/2020 3:25:27 PM*****************************************************
+
+
+Status Code                    ====> 	400
+
+
+Path Error                     ====> 	ExchengeFoodAPI.Controllers.SecurityLoginController.AuthUser (ExchengeFoodAPI)
+
+
+Type Execut Exception          ====> 	ExecuteException
+
+
+Exception Masseges             ====> 	String reference not set to an instance of a String. (Parameter 's')
+
+
+inner Exception                ====> 	No Inner Exception
+
+
+Date Exception                 ====> 	2/5/2020 3:25:27 PM
+
+
+Source Exception               ====> 	   at System.Text.Encoding.GetBytes(String s)
+   at Infra.Utili.HelperUtili.Hash(String password) in C:\Users\Sadek\source\repos\ExchengeFoodAPI\Infra\Utili\HelperUtili.cs:line 94
+   at Services.ValidationServices.AuthUserValidation.UserAuthValidationServices.CheckUserIsCurrect(String userName, String passwordHash) in C:\Users\Sadek\source\repos\ExchengeFoodAPI\Services\ValidationServices\AuthUserValidation\UserAuthValidationServices.cs:line 25
+   at ExchengeFoodAPI.Filters.AuthUserFilter.AuthUserFilterAttribute.OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next) in C:\Users\Sadek\source\repos\ExchengeFoodAPI\ExchengeFoodAPI\Filters\AuthUserFilter\AuthUserFilterAttribute.cs:line 28
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+
+

@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="bin\**" />
+    <Compile Remove="obj\**" />
+    <EmbeddedResource Remove="bin\**" />
+    <EmbeddedResource Remove="obj\**" />
+    <None Remove="bin\**" />
+    <None Remove="obj\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Services\SpecimenTypeServices.cs~RF2c8eda4.TMP" />
+  </ItemGroup>
+
+   
+
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.Core" Version="3.7.10.4" />
+    <PackageReference Include="GrapeCity.Documents.Common" Version="4.2.0.727" />
+    <PackageReference Include="GrapeCity.Documents.Imaging" Version="5.0.0.775" />
+    <PackageReference Include="GrapeCity.Documents.Pdf" Version="5.0.0.775" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.0" />
+    <PackageReference Include="sautinsoft.pdffocus" Version="8.3.3.25" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Infra\Infra.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\BackgroundServices\" />
+  </ItemGroup>
+
+</Project>

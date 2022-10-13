@@ -1,0 +1,74 @@
+D:\Projects\source\repos\Project Template\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.csprojAssemblyReference.cache
+D:\Projects\source\repos\Project Template\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.AssemblyInfoInputs.cache
+D:\Projects\source\repos\Project Template\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.AssemblyInfo.cs
+D:\Projects\source\repos\Project Template\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.csproj.CoreCompileInputs.cache
+D:\Projects\source\repos\Project Template\UnitOfWork\bin\Debug\netcoreapp3.0\UnitOfWork.deps.json
+D:\Projects\source\repos\Project Template\UnitOfWork\bin\Debug\netcoreapp3.0\UnitOfWork.dll
+D:\Projects\source\repos\Project Template\UnitOfWork\bin\Debug\netcoreapp3.0\UnitOfWork.pdb
+D:\Projects\source\repos\Project Template\UnitOfWork\bin\Debug\netcoreapp3.0\Infra.dll
+D:\Projects\source\repos\Project Template\UnitOfWork\bin\Debug\netcoreapp3.0\Repository.dll
+D:\Projects\source\repos\Project Template\UnitOfWork\bin\Debug\netcoreapp3.0\Infra.pdb
+D:\Projects\source\repos\Project Template\UnitOfWork\bin\Debug\netcoreapp3.0\Repository.pdb
+D:\Projects\source\repos\Project Template\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.csproj.CopyComplete
+D:\Projects\source\repos\Project Template\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.dll
+D:\Projects\source\repos\Project Template\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.pdb
+D:\Projects\source\repos\Pathology-Department\UnitOfWork\bin\Debug\netcoreapp3.0\UnitOfWork.deps.json
+D:\Projects\source\repos\Pathology-Department\UnitOfWork\bin\Debug\netcoreapp3.0\UnitOfWork.dll
+D:\Projects\source\repos\Pathology-Department\UnitOfWork\bin\Debug\netcoreapp3.0\UnitOfWork.pdb
+D:\Projects\source\repos\Pathology-Department\UnitOfWork\bin\Debug\netcoreapp3.0\Infra.dll
+D:\Projects\source\repos\Pathology-Department\UnitOfWork\bin\Debug\netcoreapp3.0\Repository.dll
+D:\Projects\source\repos\Pathology-Department\UnitOfWork\bin\Debug\netcoreapp3.0\Infra.pdb
+D:\Projects\source\repos\Pathology-Department\UnitOfWork\bin\Debug\netcoreapp3.0\Repository.pdb
+D:\Projects\source\repos\Pathology-Department\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.AssemblyInfoInputs.cache
+D:\Projects\source\repos\Pathology-Department\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.AssemblyInfo.cs
+D:\Projects\source\repos\Pathology-Department\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.csproj.CoreCompileInputs.cache
+D:\Projects\source\repos\Pathology-Department\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.csproj.CopyComplete
+D:\Projects\source\repos\Pathology-Department\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.dll
+D:\Projects\source\repos\Pathology-Department\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.pdb
+D:\Projects\source\repos\Pathology-Department\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.csproj.AssemblyReference.cache
+D:\Projects\source\repos\Pathology-Department\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\UnitOfWork\bin\Debug\netcoreapp3.0\UnitOfWork.deps.json
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\UnitOfWork\bin\Debug\netcoreapp3.0\UnitOfWork.dll
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\UnitOfWork\bin\Debug\netcoreapp3.0\UnitOfWork.pdb
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\UnitOfWork\bin\Debug\netcoreapp3.0\Infra.dll
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\UnitOfWork\bin\Debug\netcoreapp3.0\Repository.dll
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\UnitOfWork\bin\Debug\netcoreapp3.0\Infra.pdb
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\UnitOfWork\bin\Debug\netcoreapp3.0\Repository.pdb
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.csproj.AssemblyReference.cache
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.AssemblyInfoInputs.cache
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.AssemblyInfo.cs
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.csproj.CoreCompileInputs.cache
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.csproj.CopyComplete
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.dll
+D:\Projects\source\repos\ArchiveLibyanlaw\newone\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.pdb
+D:\Projects\source\repos\LibyanLaw_BackEnd\UnitOfWork\bin\Debug\netcoreapp3.0\UnitOfWork.deps.json
+D:\Projects\source\repos\LibyanLaw_BackEnd\UnitOfWork\bin\Debug\netcoreapp3.0\UnitOfWork.dll
+D:\Projects\source\repos\LibyanLaw_BackEnd\UnitOfWork\bin\Debug\netcoreapp3.0\UnitOfWork.pdb
+D:\Projects\source\repos\LibyanLaw_BackEnd\UnitOfWork\bin\Debug\netcoreapp3.0\Infra.dll
+D:\Projects\source\repos\LibyanLaw_BackEnd\UnitOfWork\bin\Debug\netcoreapp3.0\Repository.dll
+D:\Projects\source\repos\LibyanLaw_BackEnd\UnitOfWork\bin\Debug\netcoreapp3.0\Infra.pdb
+D:\Projects\source\repos\LibyanLaw_BackEnd\UnitOfWork\bin\Debug\netcoreapp3.0\Repository.pdb
+D:\Projects\source\repos\LibyanLaw_BackEnd\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.csproj.AssemblyReference.cache
+D:\Projects\source\repos\LibyanLaw_BackEnd\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\source\repos\LibyanLaw_BackEnd\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.AssemblyInfoInputs.cache
+D:\Projects\source\repos\LibyanLaw_BackEnd\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.AssemblyInfo.cs
+D:\Projects\source\repos\LibyanLaw_BackEnd\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.csproj.CoreCompileInputs.cache
+D:\Projects\source\repos\LibyanLaw_BackEnd\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.csproj.CopyComplete
+D:\Projects\source\repos\LibyanLaw_BackEnd\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.dll
+D:\Projects\source\repos\LibyanLaw_BackEnd\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.pdb
+D:\Projects\source\repos\HarougeBackEndSystem\UnitOfWork\bin\Debug\netcoreapp3.0\UnitOfWork.deps.json
+D:\Projects\source\repos\HarougeBackEndSystem\UnitOfWork\bin\Debug\netcoreapp3.0\UnitOfWork.dll
+D:\Projects\source\repos\HarougeBackEndSystem\UnitOfWork\bin\Debug\netcoreapp3.0\UnitOfWork.pdb
+D:\Projects\source\repos\HarougeBackEndSystem\UnitOfWork\bin\Debug\netcoreapp3.0\Infra.dll
+D:\Projects\source\repos\HarougeBackEndSystem\UnitOfWork\bin\Debug\netcoreapp3.0\Repository.dll
+D:\Projects\source\repos\HarougeBackEndSystem\UnitOfWork\bin\Debug\netcoreapp3.0\Infra.pdb
+D:\Projects\source\repos\HarougeBackEndSystem\UnitOfWork\bin\Debug\netcoreapp3.0\Repository.pdb
+D:\Projects\source\repos\HarougeBackEndSystem\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.csproj.AssemblyReference.cache
+D:\Projects\source\repos\HarougeBackEndSystem\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\source\repos\HarougeBackEndSystem\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.AssemblyInfoInputs.cache
+D:\Projects\source\repos\HarougeBackEndSystem\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.AssemblyInfo.cs
+D:\Projects\source\repos\HarougeBackEndSystem\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.csproj.CoreCompileInputs.cache
+D:\Projects\source\repos\HarougeBackEndSystem\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.csproj.CopyComplete
+D:\Projects\source\repos\HarougeBackEndSystem\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.dll
+D:\Projects\source\repos\HarougeBackEndSystem\UnitOfWork\obj\Debug\netcoreapp3.0\UnitOfWork.pdb
